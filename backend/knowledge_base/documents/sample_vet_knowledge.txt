@@ -1,0 +1,122 @@
+PET HEALTH KNOWLEDGE BASE - SAMPLE ENTRIES
+==========================================
+Source: General Veterinary Reference
+
+DOGS - COMMON CONDITIONS
+-------------------------
+
+Limping / Lameness
+- Causes: paw injury, thorn/splinter in paw, muscle strain, joint pain, arthritis, fracture,
+  ligament tear (CCL/ACL), Lyme disease (tick bite)
+- Urgency: moderate if weight-bearing, high if non-weight-bearing or severe pain
+- Home care: rest, check paw for debris, ice wrapped in cloth for 10 min if swollen
+- See vet if: limping persists >24h, joint is swollen, pet refuses to walk, fever present
+
+Loss of Appetite (Anorexia)
+- Causes: stress, change in food, dental pain, upset stomach, infection, kidney disease,
+  liver disease, parvovirus (puppies), obstruction
+- Urgency: low if <24h in otherwise healthy adult dog; high if puppy, senior, or >48h
+- Home care: offer bland diet (boiled chicken + rice), ensure fresh water
+- See vet if: >48h, vomiting/diarrhea present, lethargy, weight loss, black/tarry stool
+
+Vomiting
+- Causes: eating too fast, dietary indiscretion (ate garbage), food intolerance, parasites,
+  parvovirus, pancreatitis, obstruction, kidney/liver disease, bloat (GDV)
+- EMERGENCY signs: bloated abdomen + retching without vomiting = possible GDV → vet NOW
+- Home care: fast 6–12h, then bland diet; ensure hydration
+- See vet if: >3 episodes/day, blood in vomit, severe lethargy, known toxin ingestion
+
+Diarrhea
+- Causes: dietary change, stress, parasites (giardia, roundworm), bacterial infection,
+  viral illness, IBD, food allergy
+- Home care: bland diet, probiotics, ensure hydration
+- See vet if: blood in stool, >48h, severe lethargy, puppy or senior dog, suspected parvovirus
+
+Lethargy / Low Energy
+- Causes: infection, anemia, pain, heartworm, metabolic disease, hypothyroidism, depression
+- See vet if: persists >48h, combined with other symptoms
+
+Itching / Skin Irritation
+- Causes: fleas, environmental allergies, food allergies, mange, hot spots, fungal infection
+- Home care: check for fleas, gentle oatmeal bath
+- See vet if: raw/open skin, hair loss, crusting, no improvement after 3 days
+
+CATS - COMMON CONDITIONS
+-------------------------
+
+Urinary Issues
+- EMERGENCY: male cats straining to urinate with no output = urinary blockage → vet IMMEDIATELY
+- Causes: UTI, crystals/stones, stress (FIC), obstruction
+- Signs of blockage: frequent trips to litter box, vocalising in pain, no urine, lethargy
+- See vet: any male cat straining to urinate urgently
+
+Not Eating
+- Causes: stress, dental pain, respiratory infection (can't smell food), kidney disease,
+  hyperthyroidism, cancer
+- Note: cats should not fast >48h → risk of hepatic lipidosis (fatty liver disease)
+- See vet if: >24h in sick cat, >48h in any cat
+
+Respiratory Symptoms (sneezing, runny nose, watery eyes)
+- Causes: feline upper respiratory infection (herpesvirus, calicivirus), allergies, foreign body
+- Home care: steam from shower, keep nares clear, encourage eating with smelly food
+- See vet if: laboured breathing, open-mouth breathing (EMERGENCY), no eating
+
+Hairballs
+- Normal if occasional; concern if frequent vomiting, constipation, loss of appetite
+- Home care: hairball remedy paste, regular brushing
+
+EMERGENCY SYMPTOMS - ALL SPECIES
+----------------------------------
+These symptoms require IMMEDIATE veterinary attention:
+- Seizures or convulsions
+- Difficulty breathing / gasping / open-mouth breathing
+- Collapse or unconsciousness
+- Suspected poisoning (chocolate, grapes, raisins, xylitol, antifreeze, rat poison, medications)
+- Severe or uncontrolled bleeding
+- Trauma (hit by car, fall from height, animal attack)
+- Bloated or distended abdomen (dogs especially - possible GDV)
+- Male cat straining to urinate with no output
+- Pale, white, blue, or yellow gums
+- Inability to stand or severe sudden weakness
+- Eye prolapse
+
+COMMON TOXIC SUBSTANCES FOR PETS
+----------------------------------
+Dogs and cats:
+- Chocolate (especially dark/baking chocolate) → theobromine toxicity
+- Grapes and raisins → kidney failure
+- Xylitol (artificial sweetener) → hypoglycaemia, liver failure
+- Onions and garlic → red blood cell damage
+- Macadamia nuts → weakness, tremors (dogs)
+- Antifreeze (ethylene glycol) → kidney failure (sweet taste attracts pets)
+- Rat/mouse poison → internal bleeding, neurological damage
+- Human NSAIDs (ibuprofen, naproxen) → kidney and GI damage
+- Acetaminophen (paracetamol/Tylenol) → liver damage (especially cats)
+- Alcohol → hypoglycaemia, CNS depression
+
+NUTRITION BASICS
+----------------
+Dogs:
+- Adult dogs: 2 meals/day; puppies: 3–4 meals/day
+- Fresh water always available
+- Avoid: cooked bones (splinter risk), high-fat foods (pancreatitis risk)
+
+Cats:
+- Obligate carnivores — require animal protein
+- Wet food supports urinary health
+- Do not feed dog food long-term (lacks taurine)
+- Avoid: raw fish in excess (thiamine deficiency), milk (lactose intolerance common)
+
+PREVENTIVE CARE SCHEDULE
+-------------------------
+Dogs:
+- Vaccinations: distemper, parvovirus, adenovirus (core); rabies (legal requirement)
+- Parasite prevention: monthly flea/tick/heartworm prevention year-round
+- Dental: annual dental check, regular tooth brushing
+- Annual vet exam; senior dogs (7+) every 6 months
+
+Cats:
+- Vaccinations: FVRCP (core); rabies; FeLV if outdoor
+- Parasite prevention: monthly flea prevention (indoor cats too)
+- Annual vet exam; senior cats (10+) every 6 months
+- Spay/neuter recommended (reduces cancer, infection risk)
